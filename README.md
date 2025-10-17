@@ -16,7 +16,7 @@ Present data-driven insights for better strategic planning.
 
 ## Data Used
 
-The dataset contains detailed sales records from a retail store chain, including:
+- <a href="https://github.com/sudipto18/Retail-Sales-Dashboard-3rd-project/blob/main/Retail%20Sales%20Dashboard-3rd%20project.xlsx">Data set</a>
 
 ## Column Name	Description
 Order Date	Date of the transaction
@@ -108,8 +108,8 @@ Quantity ↑ 27.45%
 Orders ↑ 28.64%
 
 Profit Margin ↓ 5.15% (slight decline due to rising costs or discounts)
-## Data used
-- <a href="https://github.com/sudipto18/Retail-Sales-Dashboard-3rd-project/blob/main/Retail%20Sales%20Dashboard-3rd%20project.xlsx">Data set</a>
+
+
 ## Skills Demonstrated
 
 Data Cleaning and Preparation in Excel
